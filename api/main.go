@@ -4,7 +4,7 @@ import (
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"
-	"urlshortner/routes"
+	"sidurlshorten/routes"
 )
 
 func main() {

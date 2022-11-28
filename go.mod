@@ -1,4 +1,4 @@
-module urlshortner
+module sidurlshorten
 
 go 1.19
 
